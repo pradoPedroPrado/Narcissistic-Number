@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Narcissistic Number", "Narcissistic Number.csproj", "{B6162372-07F1-49F2-AE00-A9E47D32CAED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6162372-07F1-49F2-AE00-A9E47D32CAED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6162372-07F1-49F2-AE00-A9E47D32CAED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6162372-07F1-49F2-AE00-A9E47D32CAED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6162372-07F1-49F2-AE00-A9E47D32CAED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89757AE5-6E35-4450-9D95-E0B8EFD60D94}
+	EndGlobalSection
+EndGlobal
